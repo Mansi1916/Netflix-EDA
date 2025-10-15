@@ -1,10 +1,6 @@
 # Netflix-EDA
 Exploratory Data Analysis (EDA) of Netflix shows using Power BI and Power Query. Includes data cleaning, transformation, handling missing values, date formatting, text analysis, and visual exploration of Netflix content trends.
 
-# Netflix Shows Data Analysis (Power BI Project)
-
-This project explores the Netflix dataset from Kaggle to perform **Exploratory Data Analysis (EDA)** using **Power BI** and **Power Query**.
-
 ## 🎯 Objective
 To clean, transform, and analyze Netflix data to uncover insights about global content trends.
 
